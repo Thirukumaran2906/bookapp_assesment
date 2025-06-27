@@ -1,4 +1,3 @@
-// JwtUtil.java
 package com.hexaware.bookapp.security;
 
 import io.jsonwebtoken.*;
